@@ -10,7 +10,7 @@
 * data/ # 原始数据集
 * images/ # 可视化图表
 * submission_rf_tuned.csv # 预测结果文件
-* house_price_prediction.ipynb # 完整代码
+* 房价预测.py # 完整代码
 
 ## 快速开始
 
